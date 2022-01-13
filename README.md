@@ -33,4 +33,12 @@ To run `churn_library.py` script use the following command line:
 
 ## Authors
 
-- **[Pemberai Sweto](https://github.com/thepembeweb)**
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Predict Customer Churn
+](https://github.com/thepembeweb/predict-customer-churn-with-clean-code)
+
+## License
+
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+- Copyright 2022 © [Pemberai Sweto](https://github.com/thepembeweb).
